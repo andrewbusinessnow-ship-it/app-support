@@ -4,4 +4,4 @@ Public support + privacy pages for Lone Star Horns iOS apps, served by GitHub Pa
 
 Settings > Pages > Deploy from branch `main` / root. URLs: `https://andrewbusinessnow-ship-it.github.io/app-support/<app>/privacy.html`.
 
-**TODO:** replace `support@example.com` in every page.
+Support email on every page: andrewbusinessnow@gmail.com.
